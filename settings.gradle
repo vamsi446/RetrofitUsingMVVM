@@ -1,0 +1,2 @@
+rootProject.name = "RetrofitUsingMvvm"
+include ':app'
